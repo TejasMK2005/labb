@@ -1,7 +1,4 @@
 hello GitHub
-<<<<<<< HEAD
 main changes
-=======
 branch1 changes
->>>>>>> feature1
 heyyy
